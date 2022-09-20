@@ -1,0 +1,1 @@
+dotnet test Microsoft.Dynamics365.UIAutomation.Tests.Net5/Microsoft.Dynamics365.UIAutomation.Tests.Net5.csproj
